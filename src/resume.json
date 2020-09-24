@@ -1,57 +1,66 @@
 {
-	"name": "Musa Stephen",
+	"name": "Musa Stephen ",
 	"email": "musastephen07@gmail.com",
 	"phone": "+2348066979178",
 	"image": "/assets/images/potoo.jpeg",
-	"website": "programmingbuddy.club",
-	"twitter": "@abhaytalreja",
-	"twitterURL": "https://twitter.com/abhaytalreja",
+	"website": "earnesttechltd",
+	"twitter": "@Earnest67203349",
+	"linkedin": "Linkedin.com/in/musa-stephen",
+	"twitterURL": "https://twitter.com/home",
+	"linkedinURL": "https://www.linkedin.com/in/musa-stephen-01a655185/",
 	"experiences" : [
 		{
 			"title" : "IT Management ",
 			"period": "2019 - Present",
 			"company": "Jagsul Nigeria Limited",
-			"companyURL": "http://programmingbuddy.club",
+			"companyURL": "http://jagsulltd.com",
 			"details": "Manage information technology and computer systems. Design, develop, implement and coordinate systems, policies and procedures.  Ensure security of data, network access and backup systems.  Act in alignment with user needs and system functionality to contribute to organizational policy.  Identify problematic areas and implement strategic solutions in time, Preserve assets, information security and control structures, "
 		},
 		{
-			"title" : "Senior Software Engineer",
-			"period": "2014 - 2015",
-			"company": "Google, London",
-			"companyURL": "http://programmingbuddy.club",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+			"title" : "IT Assistance ",
+			"period": "2018",
+			"company": "NeonetWireless Nig Ltd",
+			"companyURL": "NeonetWireless Nig Ltd",
+			"details": "Assist in software and hardware upgrades, Add or Update workstation for Office Staff, Perform routine PC maintenance and updates for performance efficiency. Assist in maintaining Internet service, firewalls,and telephone systems.   "
+		},
+		{
+			"title" : "Office Administration ",
+			"period": "2012-2014",
+			"company": "Samjam West African Company Limited",
+			"companyURL": "http://samjam.com.ng",
+			"details": "Welcoming visitors and directing them to the relevant Office/Personnel, Carrying out clerical duties such as answering phone calls, responding to emails, and preparing documents, including office correspondence, memos, resumes, and presentations. Coordinating and managing appointments, meetings, and the conference room schedule in order to prevent duplicate bookings. Maintaining general office files, including job files, vendor files, and other files related to the company’s operations. Purchasing office supplies, equipment, and furniture. "
 		}
 	],
 	"projects": [
 		{
-			"name":"Velocity",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"EARNEST-TECH GLOBAL LIMITED",
+			"url": "http://earnest",
+			"detail": "A responsive website  designed to help startups promote, market and sell their products."
 		},
 		{
-			"name":"DevStudio",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"JUSTICE OF FIRE HEALING MINISTRY",
+			"url": "http://justice.club",
+			"detail": "A responsive website Designed for Religious Activity, to brings Christianity together"
 		},
 		{
-			"name":"Tempo",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"ENKINDLED LOVE",
+			"url": "http://enkindled.club",
+			"detail": "A responsive website Designed for Marriage Counseling and Relationship Mentors."
 		},
 		{
-			"name":"Atom",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"SECURITY  COMPANY",
+			"url": "www.nwscl.com",
+			"detail": "A responsive website  designed to help startups promote, market and sell Gold Product."
 		},
 		{
-			"name":"Delta",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"name":"COURIER/SHIPPING COMPANY",
+			"url": "www.cofsb.info",
+			"detail": "A responsive website template designed to help in Shipping of Goods and Services between the nations."
 		}
 	],
 	"skills": [
 		{
-			"name": "React & React Native",
+			"name": "React",
 			"percent": "98%"
 		},
 		{
@@ -77,19 +86,24 @@
 	],
 	"education": [
 		{
-			"degree": "BSc in Computer Science",
-			"university": "ISFOP-BENIN UNIVERSITY",
-			"period": "2015 - 2019"
+			"degree": " CERTIFICATE OF  PUBLIC MANAGEMENT OF NIGERIA",
+			"university": " CHARTERED INSTITUTE OF PUBLIC MANAGEMENT OF NIGERIA",
+			"period": "2020"
 		},
 		{
-			"degree": "CERTIFICATE OF NATIONAL SERVICE",
-			"university": "National Youth Service Corps",
-			"period": "20th August 2019 - 19th August 2020"
+			"degree": " CERTIFICATE OF NATIONAL SERVICE",
+			"university": " National Youth Service Corps",
+			"period": " 20th August 2019 - 19th August 2020"
 		},
 		{
-			"degree":"Front-End Development with React",
+			"degree": " Front End Development With React",
 			"university": "THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY",
-			"period": "10 May 2020 - 05 July 2020"
+			"period": " 10 May 2020 - 05 July 2020"
+		},
+		{
+			"degree":"BSc in Computer Science",
+			"university": "ISFOP-BENIN UNIVERSITY ",
+			"period": "2015 - 2019"
 		},
 		
 		{
